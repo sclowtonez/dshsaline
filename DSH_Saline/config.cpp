@@ -2,11 +2,7 @@ class CfgPatches
 {
 	class DSH_Saline
 	{
-		units[]=
-		{
-			"Medical_Bandage",
-			"Medical_Bloodbag"
-		};
+		units[]={"DSH_SalineBagIV"};
 		weapons[]={};
 		requiredVersion=0.1;
 		requiredAddons[]=
